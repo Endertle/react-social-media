@@ -1,4 +1,6 @@
-# My First React App Tutorial By The Net Ninja
+# My First React App
+
+Tutorial by The Net Ninja
 
 ## Available Scripts
 
