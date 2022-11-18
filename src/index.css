@@ -169,3 +169,13 @@ body {
   background-color: #c85d5c;
   cursor: pointer;
 }
+
+/* Not Found CSS */
+.not-found {
+  display: grid;
+  justify-content: center;
+}
+
+.not-found h1 {
+  margin: auto;
+}
